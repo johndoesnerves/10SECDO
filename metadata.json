@@ -1,0 +1,5 @@
+{
+  "name": "10秒！",
+  "description": "アクセスすると10秒のカウントダウンが始まり、終了後に努力の名言を表示する超単機能アプリです。",
+  "requestFramePermissions": []
+}
